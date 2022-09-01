@@ -1,19 +1,30 @@
 .lesson {
-  background-color: lemonchiffon;
+  background-color:rgb(97, 0, 187);
 }
 
 .title {
-  color: darkblue;
+  color: rgb(187, 236, 186);
+  background-color: rgb(97, 0, 187);
 }
 
+
 #email {
-  background-color: goldenrod;
+  background-color: rgb(158, 26, 37);
 }
 
 #github {
-  background-color: lightsteelblue;
+  background-color: rgb(100, 100, 100);
 }
 
 #portfolio {
-  background-color: darkorange;
+  background-color: rgb(175, 40, 40);
 }
+
+#instagram {
+  background-color: rgb(90, 90, 90);
+}
+
+#paragraph {
+  color: rgb(252, 252, 252);
+}
+
